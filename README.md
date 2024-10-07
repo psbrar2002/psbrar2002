@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there my name is Prabhdeep Brar and I am a Software Engineer👋
 
 <!--
 **psbrar2002/psbrar2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
