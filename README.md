@@ -2,7 +2,7 @@
 
 **`Software Engineer (Mobile and Full Stack)`**
 
-Hello there! I'm Prabhdeep, an incoming Graduate Computer Science student at Brown interested in Software Engineering.
+Hello there! I'm Prabhdeep, a first year Graduate Computer Science student at Brown interested in Software Engineering.
 
 
 ---
